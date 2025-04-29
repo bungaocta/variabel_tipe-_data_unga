@@ -1,18 +1,14 @@
-
-# =============================
-# 1. Jenis-jenis Tipe Data di Python
-# =============================
-
-# Integer (bilangan bulat)
+#1. Jenis-jenis Tipe Data di Python
+#Integer (bilangan bulat)
 angka = 10
 
-# Float (bilangan desimal)
+#Float (bilangan desimal)
 desimal = 3.14
 
-# String (teks)
+#String (teks)
 nama = "Muchtar Ali"
 
-# Boolean (True/False)
+#Boolean (True/False)
 is_siswa = True
 
 # List (daftar)
@@ -21,16 +17,13 @@ hobi = ["membaca", "ngoding", "olahraga"]
 # Tuple (mirip list tapi tidak bisa diubah)
 koordinat = (10, 20)
 
-# Dictionary (pasangan key dan value)
+#Dictionary (pasangan key dan value)
 biodata = {"nama": "Ali", "umur": 20}
 
-# Set (kumpulan data unik)
+#Set (kumpulan data unik)
 angka_unik = {1, 2, 3, 3, 2}
 
-# =============================
-# 2. Program Biodata dengan Komentar
-# =============================
-
+#2. Program Biodata dengan Komentar
 # Nama : Muchtar Ali Setyo Yudono
 # Nomor Telepon : 0426019502
 # NIM : 089677568788
@@ -40,9 +33,7 @@ print("Muchtar Ali Setyo Yudono")
 print("0426019502")
 print("089677568788")
 
-# =============================
-# 3. Operasi Aritmatika dari Tiga Angka
-# =============================
+#3. Operasi Aritmatika dari Tiga Angka
 print("\n===== Soal 3: Operasi Aritmatika =====")
 
 angka1 = 5000
@@ -58,9 +49,7 @@ hasil2 = angka2 - angka3
 print("Hasil Penjumlahan: ", hasil1)
 print("Hasil Pengurangan: ", hasil2)
 
-# =============================
 # 4. Keliling Lingkaran dan Volume Kubus
-# =============================
 import math
 
 print("\n===== Soal 4: Keliling Lingkaran dan Volume Kubus =====")
